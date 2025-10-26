@@ -1,6 +1,3 @@
-#Roteiro00-kali
-
-
 **Ravens - Research on Vulnerability Exploration in Network Security**
 **Professor Laerte Peotta**
 laerte.melo@unb.br
