@@ -1,7 +1,15 @@
-# ravens
+
 # Ravens — Laboratórios de Redes & Segurança
 
 > Material didático em **português** para aulas práticas de Redes de Computadores e Segurança da Informação, com ênfase em fundamentos (DNS), criptografia (simétrica e assimétrica) e práticas seguras de e‑mail (SMTP/Gmail).
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0d39a308-fe59-42da-91a2-78bba0a0936a" 
+       alt="Ravens-Logo" 
+       width="250">
+</p>
+
+
 
 ---
 
