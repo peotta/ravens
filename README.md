@@ -1,14 +1,41 @@
 
 # Ravens — Laboratórios de Redes & Segurança
 
-> Material didático em **português** para aulas práticas de Redes de Computadores e Segurança da Informação, com ênfase em fundamentos (DNS), criptografia (simétrica e assimétrica) e práticas seguras de e‑mail (SMTP/Gmail).
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d39a308-fe59-42da-91a2-78bba0a0936a" 
        alt="Ravens-Logo" 
        width="250">
 </p>
 
+---
+
+## 🦅 Grupo de Pesquisa RAVENS
+
+O **RAVENS – Research Group on Advanced Vulnerabilities, Networks and Security** é um grupo de pesquisa dedicado ao estudo avançado de **cibersegurança**, **redes de computadores**, **vulnerabilidades**, **defesa cibernética** e **análise de ameaças**.
+
+O grupo atua na interseção entre **pesquisa acadêmica**, **formação de recursos humanos** e **aplicações práticas**, desenvolvendo estudos, projetos e experimentos nas seguintes áreas:
+
+- Segurança em redes de computadores;
+- Detecção e mitigação de ataques cibernéticos;
+- Análise de malware e ameaças avançadas;
+- Cyber Threat Intelligence e Threat Hunting;
+- Criptografia aplicada e protocolos seguros;
+- Fraudes digitais e segurança bancária.
+
+### 🎯 Objetivos do RAVENS
+
+- Produzir pesquisa científica aplicada em cibersegurança;
+- Formar alunos de graduação e pós-graduação em temas avançados;
+- Desenvolver soluções experimentais e provas de conceito;
+- Integrar ensino, pesquisa e extensão;
+- Contribuir para o fortalecimento da segurança cibernética nacional.
+
+### 🔗 Repositórios e Recursos
+
+- 🧠 Repositórios de pesquisa e experimentos:  
+  👉 https://github.com/peotta/ravens
+
+> Os laboratórios e projetos desenvolvidos no âmbito das disciplinas e da pesquisa científica estão alinhados às atividades do grupo **RAVENS**.
 
 
 ---
