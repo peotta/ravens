@@ -9,9 +9,9 @@
 
 ---
 
-## 🦅 Grupo de Pesquisa RAVENS
+## Grupo de Pesquisa RAVENS
 
-O **RAVENS – Research Group on Advanced Vulnerabilities, Networks and Security** é um grupo de pesquisa dedicado ao estudo avançado de **cibersegurança**, **redes de computadores**, **vulnerabilidades**, **defesa cibernética** e **análise de ameaças**.
+O **RAVENS - Research Group on Advanced Vulnerabilities, Networks and Security** é um grupo de pesquisa dedicado ao estudo avançado de **cibersegurança**, **redes de computadores**, **vulnerabilidades**, **defesa cibernética** e **análise de ameaças**.
 
 O grupo atua na interseção entre **pesquisa acadêmica**, **formação de recursos humanos** e **aplicações práticas**, desenvolvendo estudos, projetos e experimentos nas seguintes áreas:
 
@@ -22,7 +22,7 @@ O grupo atua na interseção entre **pesquisa acadêmica**, **formação de recu
 - Criptografia aplicada e protocolos seguros;
 - Fraudes digitais e segurança bancária.
 
-### 🎯 Objetivos do RAVENS
+### Objetivos do RAVENS
 
 - Produzir pesquisa científica aplicada em cibersegurança;
 - Formar alunos de graduação e pós-graduação em temas avançados;
@@ -32,15 +32,14 @@ O grupo atua na interseção entre **pesquisa acadêmica**, **formação de recu
 
 ### 🔗 Repositórios e Recursos
 
-- 🧠 Repositórios de pesquisa e experimentos:  
-  👉 https://github.com/peotta/ravens
+- Repositórios de pesquisa e experimentos:  https://github.com/peotta/ravens
 
 > Os laboratórios e projetos desenvolvidos no âmbito das disciplinas e da pesquisa científica estão alinhados às atividades do grupo **RAVENS**.
 
 
 ---
 
-## 📚 Sumário
+## Sumário
 - [Visão Geral](#visão-geral)
 - [Estrutura do Repositório](#estrutura-do-repositório)
 - [Pré‑requisitos](#pré-requisitos)
