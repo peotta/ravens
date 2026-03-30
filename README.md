@@ -1,5 +1,5 @@
 
-# Ravens — Laboratórios de Redes & Segurança
+# Ravens - Laboratórios de Redes & Segurança
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d39a308-fe59-42da-91a2-78bba0a0936a" 
@@ -45,10 +45,10 @@ O grupo atua na interseção entre **pesquisa acadêmica**, **formação de recu
 - [Pré‑requisitos](#pré-requisitos)
 - [Como usar](#como-usar)
 - [Laboratórios](#laboratórios)
-  - [Lab 1 — Enviando e‑mail via SMTP do Google](./labs/lab-dns.md)
-  - [Lab — Criptografia Simétrica](./labs/lab-simetrica.md)
-  - [Lab — Criptografia Assimétrica com OpenSSL](./labs/lab-assimetrica.md)
-  - [Lab — DNS](#lab--dns)
+  - [Lab 1 - Enviando e‑mail via SMTP do Google](./labs/lab-dns.md)
+  - [Lab - Criptografia Simétrica](./labs/lab-simetrica.md)
+  - [Lab - Criptografia Assimétrica com OpenSSL](./labs/lab-assimetrica.md)
+  - [Lab - DNS](#lab--dns)
 - [Boas práticas & segurança](#boas-práticas--segurança)
 - [Referências recomendadas](#referências-recomendadas)
 - [Como contribuir](#como-contribuir)
@@ -105,7 +105,7 @@ sudo apt update && sudo apt install -y openssl dnsutils python3
 
 ## Laboratórios
 
-### Lab 1 — Enviando e‑mail via SMTP do Google
+### Lab 1 - Enviando e‑mail via SMTP do Google
 Arquivo: `Lab1:Laboratório: Enviando e-mail via SMTP do Google.md`
 
 **Objetivo:** compreender o fluxo SMTP autenticado (STARTTLS) e boas práticas no uso do Gmail.
@@ -114,7 +114,7 @@ Arquivo: `Lab1:Laboratório: Enviando e-mail via SMTP do Google.md`
 
 ---
 
-### Lab — Criptografia Simétrica
+### Lab - Criptografia Simétrica
 Arquivo: `Lab: Criptografia Simétrica.md`
 
 **Objetivo:** compreender o uso de AES e modos de operação (CBC, GCM).
@@ -123,7 +123,7 @@ Arquivo: `Lab: Criptografia Simétrica.md`
 
 ---
 
-### Lab — Criptografia Assimétrica com OpenSSL
+### Lab - Criptografia Assimétrica com OpenSSL
 Arquivo: `Laboratório Criptografia Assimétrica com OpenSSL.md`
 
 **Objetivo:** aplicar RSA e curvas elípticas em geração de chaves, assinatura e certificados.
@@ -132,7 +132,7 @@ Arquivo: `Laboratório Criptografia Assimétrica com OpenSSL.md`
 
 ---
 
-### Lab — DNS
+### Lab - DNS
 Arquivo: `Lab:DNS.md`
 
 **Objetivo:** compreender resolução de nomes e registros DNS, além de práticas seguras.
@@ -151,7 +151,7 @@ Arquivo: `Lab:DNS.md`
 
 ## Referências recomendadas
 - Diffie & Hellman (1976); Rivest, Shamir & Adleman (1978).
-- Stevens — *TCP/IP Illustrated*; Stallings; Kurose & Ross.
+- Stevens - *TCP/IP Illustrated*; Stallings; Kurose & Ross.
 - NIST SP 800‑38D, SP 800‑56A/B.
 - RFCs: 1034/1035 (DNS), 8446 (TLS 1.3), 5321/5322 (SMTP), 6376 (DKIM), 7489 (DMARC).
 
