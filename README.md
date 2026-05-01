@@ -47,7 +47,7 @@ O grupo atua na interseção entre **pesquisa acadêmica**, **formação de recu
 - [Laboratórios](#laboratórios)
   - [Lab 1 - Enviando e‑mail via SMTP do Google](labs/lab-dns.md)
   - [Lab - Criptografia Simétrica](labs/lab-simetrico.md)
-  - [Lab - Criptografia Assimétrica com OpenSSL](labs/lab-assimetrica.md)
+  - [Lab - Criptografia Assimétrica com OpenSSL](labs/lab-assimetrico.md)
   - [Lab - DNS](#lab--dns)
 - [Boas práticas & segurança](#boas-práticas--segurança)
 - [Referências recomendadas](#referências-recomendadas)
